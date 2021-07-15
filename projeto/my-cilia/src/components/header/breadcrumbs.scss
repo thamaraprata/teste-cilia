@@ -1,0 +1,9 @@
+.container-fluid.breadcrumbs {
+    background-color: white;
+}
+
+div.breadcrumbs nav {
+    --bs-breadcrumb-divider: '›';
+
+    ol { background-color: white; }
+}
